@@ -1,0 +1,35 @@
+*
+{
+  background-color : rgb(104, 183, 80);;
+}
+body {
+  background-color: #e5e5fd;
+  margin: 0px;
+  border: 0px;
+}
+
+.container {
+  border: 10px solid rgb(4, 4, 37);
+  text-align: center;
+}
+
+.middle-section{
+  padding: 10px;
+}
+.middle-section h2{
+  font-size: 40px;
+  font-family: 'Times New Roman', Times, serif;
+  margin-bottom: 2px;
+  text-align: center;
+  font-weight: bold;
+}
+p{
+  font-size: large;
+  font-family: 'Times New Roman', Times, serif;
+  line-height: 30px;
+  word-spacing: 10%;
+  letter-spacing: 0.60px;
+  font-size: 21px;
+  text-align: justify;
+}
+
